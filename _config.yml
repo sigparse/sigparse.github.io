@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: SIGPARSE
+url: "https://www.sigparse.org"
+baseurl: ""
+description: >
+  The ACL Special Interest Group on Natural Language Parsing
+  
+include:
+  - _pages
+  
+sass:
+  sass_dir: _sass
