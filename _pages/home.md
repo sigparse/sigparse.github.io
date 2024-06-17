@@ -11,4 +11,6 @@ SIGPARSE is the Special Interest Group on Natural Language Parsing of the [Assoc
 
 SIGPARSE sponsors the International Conference on Parsing Technologies (IWPT). The next IWPT is planned for 2025.
 
+Established in 1989, SIGPARSE is one of the oldest ACL special interest groups.
+
 <p style="margin-bottom:60ex;"></p>
