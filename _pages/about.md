@@ -6,13 +6,13 @@ sitemap: false
 permalink: /about
 ---
 
-#### SIGPARSE OFFICERS
+#### SIGPARSE OFFICERS (2025–28)
 
-- President: Stephan Oepen
-- Secretary: Kenji Sagae
-- Information Officer: Yuji Matsumoto
+- President: Kenji Sagae
+- Secretary: Miryam de Lhoneux
+- Information Officer: Chloë Braud
+- Information Officer: Djamé Seddah
 - Information Officer: Weiwei Sun
-- Information Officer: Anders Søgaard
 - Information Officer: Reut Tsarfaty
 
 #### SIGPARSE CONSTITUTION
