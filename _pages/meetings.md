@@ -11,8 +11,8 @@ permalink: /meetings
 SIGPARSE meetings happen roughly every two years, in the form of the International Conference on Parsing Technologies[*](#IWPT), or IWPT. SIGPARSE also sponsors other conferences and workshops related to natural language parsing or computational models of syntax.
 
 
-#### Next Meeting
-The [next IWPT](https://www.sigparse.org/iwpt2025/) will take place during August 26-26, 2025, in Ljubljana, as part of [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/). The extended submission deadline is April 22, 2025 ([call for papers](https://www.sigparse.org/iwpt2025/cfp)).
+#### Meetings
+The [most recent IWPT](https://www.sigparse.org/iwpt2025/) took place on August 26, 2025, in Ljubljana, as part of [SyntaxFest 2025](https://syntaxfest.github.io/syntaxfest25/). Stay tuned for news about IWPT 2027.
 
 
 #### Previous Meetings
